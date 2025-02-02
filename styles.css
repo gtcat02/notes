@@ -95,3 +95,7 @@ body {
 .footer__copyright {
   display: none;
 }
+
+.item-title--through {
+  text-decoration: line-through;
+}
