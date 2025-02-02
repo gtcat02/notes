@@ -66,10 +66,6 @@ body {
   border-radius: 5px;
 }
 
-.input__button:hover {
-  opacity: 0.8;
-}
-
 .added__item {
   padding: 10px 30px;
   background-color: rgb(112, 29, 29);
@@ -94,10 +90,6 @@ body {
   color: white;
   border-radius: 5px;
   cursor: pointer;
-}
-
-.added__button:hover {
-  opacity: 0.6;
 }
 
 .footer__copyright {
